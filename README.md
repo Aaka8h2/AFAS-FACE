@@ -87,7 +87,7 @@ Perfect for:
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/yourusername/face-attendance-system.git
+git clone https://github.com/aaka8h2/AFAS-FACE.git
 cd face-attendance-system
 
 text
