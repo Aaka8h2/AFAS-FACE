@@ -1,4 +1,4 @@
-import cv2
+import cv2 # open-cv for computer vision tasks
 import face_recognition
 import numpy as np
 import pickle
